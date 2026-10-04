@@ -10,4 +10,3 @@ print("Country:",country)
 print("state:",state)
 print("City:", city)
 print("Clg:",clg)
-+
